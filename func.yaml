@@ -1,3 +1,8 @@
+specVersion: 0.36.0
+name: testlocal
+runtime: go
+created: 2024-07-12T12:47:53.210586+02:00
+
 build:
   git:
     url: https://github.com/dlozina-macrometa/testlocal.git   # required, git repository with the function source code
